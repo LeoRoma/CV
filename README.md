@@ -1,9 +1,12 @@
 ## Jia Tian Xia
 
 Multilingual, award-winning chef with a strong international background developed through education and work experience in Italy, China, and UK.
+
 Working in fine dining I have developed high organisational and time management skills, as well as excellent communication with both staff members and customers.
+
 Thorough and efficient, I am committed to high quality standards in a work environment as well as in personal sphere.
-I'm taking the opportunity to challenge myself by changing career from chef to junior developer to learn new skills and knowledges about coding and have the possibility to work in a field that always interested and stimulated me. 
+
+Joining in Makers Academy I'm taking the opportunity to challenge myself by changing career from chef to junior developer to learn new skills and knowledges about coding and have the possibility to work in a field that always interested and stimulated me. 
 
 ## Skills
 
