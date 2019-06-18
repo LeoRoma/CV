@@ -6,7 +6,7 @@ Working in fine dining I have developed high organisational and time management 
 
 Thorough and efficient, I am committed to high quality standards in a work environment as well as in personal sphere.
 
-Joining Makers Academy I'm taking the opportunity to challenge myself by changing career from chef to junior developer to learn new skills and knowledges about coding and have the possibility to work in a field that always interested and stimulated me. 
+From cooking to coding, joining Makers Academy is the journey that I'm taking as opportunity to challenge myself and prove that everything is possible if we are determinated, by changing my career from chef to junior developer to learn skills and knowledges about coding and create the possibility in the future to work in a field that always interested and stimulated me. 
 
 ## Skills
 
