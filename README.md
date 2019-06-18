@@ -29,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy ()
+#### Makers Academy (July-September 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -64,6 +64,4 @@ represent UK in the Grand Final. (See link: http://dialogueagency.com/xia-jia-ti
 In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
 University for 3 months to improve Chinese language skills.
 
-## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
