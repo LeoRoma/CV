@@ -1,6 +1,12 @@
-Jia Tian Xia
+## Jia Tian Xia
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Multilingual, award-winning chef with a strong international background developed through education and
+work experience in Italy, China, and UK.
+Working in fine dining I have developed high organisational and time management skills, as well as excellent
+communication with both staff members and customers.
+Thorough and efficient, I am committed to high quality standards in a work environment as well as in personal
+sphere.
+I'm taking the opportunity to challenge myself by changing career from chef to junior developer to learn new skills and knowledges about coding and have the possibility to work in a field that always interested and stimulated me. 
 
 ## Skills
 
@@ -30,15 +36,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Certificate - Beijing Foreign Studies University. Beijing, China (2011-2012)
+Intensive Chinese language course in a medium-advanced class.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Bachelor - La Sapienza University, Faculty of Oriental Studies, Oriental Languages and Cultures. Rome, Italy (2007-2010)
+Studied chinese language, history, arts, literature, philology, religion and philosophy. In 2010 achieved a
+scholarship to study abroad in Beijing for 3 months to improve Chinese language skills.
 
-#### Any other qualifications
+#### High School Diploma - Leon Battista Alberty, Accountancy Field. Rome, Italy (2003-2007)
+Studied accountancy, IT, civil law.
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
 
@@ -49,6 +56,13 @@ That in some arguable way make you a better software developer or well-rounded p
 **Company Name** (start_date to end_date)   
 *Your job title*  
 - Any experience relevent to software development
+
+## Achievements
+Winner of Global Sushi Challange UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
+represent UK in the Grand Final. (See link: http://dialogueagency.com/xia-jia-tian-from-kouzu-crowned-the-uks-top-sushi-chef/)
+
+In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
+University for 3 months to improve Chinese language skills.
 
 ## Hobbies
 
