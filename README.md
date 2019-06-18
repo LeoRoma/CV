@@ -1,4 +1,4 @@
-## Your Name
+Jia Tian Xia
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy ()
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
