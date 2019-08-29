@@ -10,7 +10,16 @@ From cooking to coding, joining Makers Academy is the journey that I'm taking as
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+# Organisational
+
+Working in different restaurants during my career as chef I had the possibility to learn how to be organised and possibly using most efficiently the time, considering is a job with an high pressure is very important to calculate the time for each preparation and be ready for the service.
+Mostly in my daily routine before to arrive at workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
+
+# Communication
+
+The key to succeed in kitchen and having a nice service is communication.
+Without communication is very easy to create delays with the dishes, easy to get involved in some arguing with your collegues and the Head Chef is always ready to shout at you.
+Communication is very important because is the only way to synchronised everybody's actions in one same flow.
 
 #### This Skill
 
@@ -64,4 +73,14 @@ represent UK in the Grand Final. (See link: http://dialogueagency.com/xia-jia-ti
 In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
 University for 3 months to improve Chinese language skills.
 
+## Hobbies
+
+- Baking bread, it is been a while that I am baking bread, and I found very affascinated, to compare coding is something that 
+  is quite difficult to debug, consider time and the differences with temperature, flour's protein, you need to wait more than   24 hours before you can see the result of the next bread, and then thinking about all the process and try to spot on where     were your mistakes, until nowadays I couldn't make the same bread for 2 times in a row.
+
+- Workout, for me is very important to do some exercise because having a balanced psychophisycal it means to be healthy and     able to do ease the daily stress.
+
+- Guitar,  even if I am finding quite difficult to self-taught to learn how to play an instrument is something that I have       always wanted to learn.
+
+- Cooking, even if I am changing my career I still enjoy cooking and spending my time to try different recipes from different   kind of cuisine
 
