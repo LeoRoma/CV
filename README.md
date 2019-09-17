@@ -56,9 +56,15 @@ Studied accountancy, IT, civil law.
   Besides my day by day duty I have contributed to develop a new menu.
   I have reorganised the workspace and improved internal processes by applying industry best practices.
 
-**4 Degree** (June-2017 to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**4 Degree** (June-2017 to June 2018)   
+*Junior Sous Chef*  
+- As Junior Soush Chef at 4 Degree I actively contributed to the launch of the restaurant by supporting senior staff in         developing the menu and training the junior staff.
+  Responsible of inventory and stock management, I oversighted processes to ensure consistent quality standard.
+  
+**Kouzu** (September 2014 to December 2015)   
+*Sushi Chef*
+- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible of the daily operations. My day to     day role was delivering tailor made experiences through Omakase (traditional Japanese customer- facing service).
+  During my time at Kouzu I successfully represented the brand and achieved international awards.
 
 ## Achievements
 Winner of Global Sushi Challange UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
@@ -67,13 +73,18 @@ represent UK in the Grand Final. (See link: http://dialogueagency.com/xia-jia-ti
 In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
 University for 3 months to improve Chinese language skills.
 
+## Languages
+
+  Italian          Chinese     English    Spanish    Japanese
+  First language   Fluent      Fluent     Fluent     Conversational
+ 
 ## Hobbies
 
 - Baking bread.
 
-- Workout, for me is very important to do some exercise because having a balanced psychophisycal it means to be healthy and     able to do ease the daily stress.
+- Workout
 
-- Guitar,  even if I am finding quite difficult to self-taught to learn how to play an instrument is something that I have       always wanted to learn.
+- Guitar
 
-- Cooking, even if I am changing my career I still enjoy cooking and spending my time to try different recipes from different   kind of cuisine
+- Cooking
 
