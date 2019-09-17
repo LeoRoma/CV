@@ -87,11 +87,12 @@ University for 3 months to improve Chinese language skills.
  
 ## Hobbies
 
-- Baking bread, I found baking breads a very interesting hobby, you have to deal with many variables such as water    temperature, room temperature, type of flour, yeast, time to raise and need a lot patience. At the moment I have never succeed  to make the same bread 2 times in a row.
+- Baking bread: I found baking bread a very interesting hobby, you have to deal with many variables such as water temperature, room temperature, type of flour, yeast, time to raise and need a lot of patience.  At the moment I have never succeeded to make the same bread 2 times in a row.
+Every time needs to take note and apply a few small changes in the process for the next bread.
 
-- Workout
+- Workout: It is very important to be healthy, even if sometimes I slip into drinking very easily. 
 
-- Guitar
+- Guitar: something that I always wanted to learn it was to learn to play an instrument, I thought was quite late to consider my age to compare that usually people start to play an instrument when they were a kid, and I am not very good with it and as a self-learner is not an easy task.
 
-- Cooking
 
+- Cooking: even if I want to change my career I still like cooking especially try to cook different recipes and different varieties of food.
