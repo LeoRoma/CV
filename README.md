@@ -87,7 +87,7 @@ University for 3 months to improve Chinese language skills.
  
 ## Hobbies
 
-- Baking bread.
+- Baking bread, I found baking breads a very interesting hobby, you have to deal with many variables such as water    temperature, room temperature, type of flour, yeast, time to raise and need a lot patience. At the moment I have never succeed  to make the same bread 2 times in a row.
 
 - Workout
 
