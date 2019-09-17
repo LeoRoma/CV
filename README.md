@@ -1,6 +1,7 @@
 ## Jia Tian Xia
 
-
+As my name is difficult to pronounce everybody calls me Leo, before Makers I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and UK.
+Working in a kitchen definitely I have always enjoyed to know people from different countries and have the possibility to have a cultural and language exchange, but even if I was very passionate about cooking, after moving different restaurants in London I have realized the redundant tasks that I had to fullfil everyday they started to be monotonous on my daily routine, so I decided to join Makers and challenge myself to become a software developer, with the curiosity to learn how the application and website are built.
 
 ## Skills
 
@@ -24,6 +25,14 @@ For example in our final project in Makers
 - Experience
 - Achievements
 - Evidence
+
+# Projects
+
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [CodeCraft](https://github.com/KTSE-2018/KTSE) | Completely indoctrinated by the course, my final project group created a bootcamp survival simulation game. Wanting to learn how to build it from the ground up, we didn't use any game frameworks and used TDD to build our own game logic. | 2 weeks | JavaScript, JQuery, HTML/CSS, Heroku | Mocha, Chai, Sinon |
+| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group. The site's design was driven by a plush toy of a pink fish found close to our desk. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | 1 week |HTML/CSS, JavaScript | Tasteless Testing Suite  |
 
 #### Another Skill
 
