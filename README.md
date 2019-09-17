@@ -1,36 +1,34 @@
-## Jia Tian Xia
+## Jia Tian Xia ('Leo')
 
-As my name is difficult to pronounce everybody calls me Leo, before Makers I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and the UK. 
-
-Working in a kitchen definitely I have always enjoying to know people from different countries and have the possibility to have a cultural and language exchange, but even if I was very passionate about cooking, after moving different restaurants in London I have realized the redundant tasks that I had to fulfill every day and they started to be monotonous on my daily routine, so I decided to join Makers and challenge myself to become a software developer, with the curiosity to learn how the application and website are built.
+As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and UK. 
+Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, after working at different restaurants in London, I realised that the tasks were repetitive. My daily routine started to become monotonous, so I decided to join [Makers Academy](https://makers.tech/) and challenge myself to become a software developer, with the curiosity to learn how applications and websites are built.
 
 ## Skills
 
 # Organisational
 
-Working in different restaurants during my career as a chef I could learn how to be organized and possibly using most efficiently the time, considering is a job with high pressure is very important to calculate the time for each preparation and be ready for the service.
+Working in different restaurants during my career as a chef, I learned how to be organised and using my time efficiently. Being a chef comes with high pressure, and so it is very important to calculate the time for each food preparation and be ready for the service.
 
 Mostly in my daily routine before to arrive at the workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
-Either in coding, I have found it very important to make a plan before to my day, so I could understand better which goals I had to achieve at the end of the day or the end of the week.
+I have taken these skills into my coding. I will plan my day so I can set out which goals I want to achieve by the end of the day.
 
 # Communication
 
-Either in kitchen or while I was working in a team project communication is the key, if there is not communication in kitchen is sure that the dishes will be in delay, and in coding I have realized that sometimes is possible to implement functionality for the app that they are not required or is also very easy to go out of track. It especially is very important to keep updated with your colleagues to be constantly synchronized with your team. 
+Whether working in a kitchen or coding in a team project, I understand that communication is the key. If there is no communication in a kitchen, it is certain that the dishes will be delayed. I have realised that the same applied to coding, in that if there is poor communication, some team members might make changes to the code which has an impact on the code the rest of the team is writing. It especially is very important to keep updated with your colleagues to be constantly synchronized with your team. 
 
 # Teamwork
 
-Teamwork for me is another element that I believe brings any company to success, consider the fact even if you are the strongest person in your team you still can't do everything alone. 
-
-In my final project with my team we had some issues with the front end and we mobbed for 3 hours to find a workaround to set our buttons because they were overlapping, so we collected all our knowledge that we gather for React Native to finally solve our problems, the feeling to part of a team and working altogether to achieve the same goal that we had in common during this last 3 hours sprint which was getting ready our application for the presentation for the end of the course because we were late, we ended up to manage to complete the application and finally celebrate our success it's something that I believe that any team needs to have the same goal which gathers altogether. 
+Teamwork for me is another element that I believe brings any company success - even if you are the strongest person in your team you cannot do everything alone. 
+In our final group project, we found ourselves behind schedule as there were some issues with the front end. At this stage, there was only three hours to go before our presentation. To resolve the issue we did mob programming in a final three-hour sprint, and by sharing our knowledge and focusing on a common goal, we were able to resolve the issue and celebrate our success. 
 
 # Projects
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Final project, my team and me decided to build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music in base at the weather. | 2 weeks | React Native, Android Studio | Jest |
-| [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project,  had to build with our own interpration of Facebook with an emphasis on focusing on learning as a group, and the coaches were simulating to be a client which they were giving us a new user story to build once they have checked that we have completed our previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
-| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project, as we wanted a colleague to envy that we wanted to build the application in Python we called our app as CrouchingPythonbnb, even if didn't even wrote a single line in Python.  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
-| [bank-tech-test](https://github.com/LeoRoma/bank-tech-test) | Week 10 of the course, we had to build our first tech-test.  | 2 days | Ruby | Rspec |
+| [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Makers Academy Final project. My team build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music based on the weather. | 2 weeks | React Native, Android Studio | Jest |
+| [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project at Makers.  We built our own version of Facebook with an emphasis on focusing on learning as a group. The coaches were acting as the client which and they were giving us a new user story to build once they have checked that we have completed the previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project at Makers. As we wanted our colleagues to be jealous that were building the application in Python, we called our app CrouchingPythonbnb, even though we didn't write a single line of Python.  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
+| [bank-tech-test](https://github.com/LeoRoma/bank-tech-test) | Week 10 of the Makers course. We had our first professional-quality tech-test.  | 2 days | Ruby | Rspec |
 
 ## Education
 
@@ -87,12 +85,10 @@ University for 3 months to improve Chinese language skills.
  
 ## Hobbies
 
-- Baking bread: I found baking bread a very interesting hobby, you have to deal with many variables such as water temperature, room temperature, type of flour, yeast, time to raise and need a lot of patience.  At the moment I have never succeeded to make the same bread 2 times in a row.
-Every time needs to take note and apply a few small changes in the process for the next bread.
+- Baking bread: I found baking bread a very interesting hobby. You have to deal with many variables such as water temperature, room temperature, type of flour, yeast, time to raise and need a lot of patience.  At the moment I have never succeeded to make the same bread 2 times in a row. Every time I need to take notes and apply a few small changes in the process for the next bread.
 
-- Workout: It is very important to be healthy, even if sometimes I slip into drinking very easily. 
+- Workout: It is very important to be healthy. Even if sometimes I slip into drinking very easily! 
 
-- Guitar: something that I always wanted to learn it was to learn to play an instrument, I thought was quite late to consider my age to compare that usually people start to play an instrument when they were a kid, and I am not very good with it and as a self-learner is not an easy task.
+- Guitar: I always wanted to learn to play an instrument. This is quite challenging to do self-led.
 
-
-- Cooking: even if I want to change my career I still like cooking especially try to cook different recipes and different varieties of food.
+- Cooking: even if I want to change my career I still like cooking. I especially try to cook different recipes and different varieties of food.
