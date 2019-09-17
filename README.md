@@ -26,7 +26,7 @@ In my final project with my team we had some issues with the front end and we mo
 |--|--|--|--|--|
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Final project, my team and me decided to build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music in base at the weather. | 2 weeks | React Native, Android Studio | Jest |
 | [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project,  had to build with our own interpration of Facebook with an emphasis on focusing on learning as a group, and the coaches were simulating to be a client which they were giving us a new user story to build once they have checked that we have completed our previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
-| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project, as we wanted a colleague to envy that we wanted to build the application in Python we called our app as CrouchingPythonbnb  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
+| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project, as we wanted a colleague to envy that we wanted to build the application in Python we called our app as CrouchingPythonbnb, even if didn't even wrote a single line in Python  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
 
 ## Education
 
