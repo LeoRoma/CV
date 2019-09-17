@@ -8,7 +8,6 @@ Working in a kitchen, I have always enjoyed meeting people from different countr
 # Organisational
 
 Working in different restaurants during my career as a chef, I learned how to be organised and using my time efficiently. Being a chef comes with high pressure, and so it is very important to calculate the time for each food preparation and be ready for the service.
-
 Mostly in my daily routine before to arrive at the workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
 I have taken these skills into my coding. I will plan my day so I can set out which goals I want to achieve by the end of the day.
 
