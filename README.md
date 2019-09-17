@@ -1,12 +1,6 @@
 ## Jia Tian Xia
 
-Multilingual, award-winning chef with a strong international background developed through education and work experience in Italy, China, and UK.
 
-Working in fine dining I have developed high organisational and time management skills, as well as excellent communication with both staff members and customers.
-
-Thorough and efficient, I am committed to high quality standards in a work environment as well as in personal sphere.
-
-From cooking to coding, joining Makers Academy is the journey that I'm taking as opportunity to challenge myself and prove that everything is possible if we are determinated, by changing my career from chef to junior developer to learn skills and knowledges about coding and create the possibility in the future to work in a field that always interested and stimulated me. 
 
 ## Skills
 
@@ -14,12 +8,16 @@ From cooking to coding, joining Makers Academy is the journey that I'm taking as
 
 Working in different restaurants during my career as chef I had the possibility to learn how to be organised and possibly using most efficiently the time, considering is a job with an high pressure is very important to calculate the time for each preparation and be ready for the service.
 Mostly in my daily routine before to arrive at workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
+Either in coding, I have found it very important to make a plan before to my day, so I could understand better which goals I had to achieve at the end of the day or at the end of the week.
 
 # Communication
 
-The key to succeed in kitchen and having a nice service is communication.
-Without communication is very easy to create delays with the dishes, easy to get involved in some arguing with your collegues and the Head Chef is always ready to shout at you.
-Communication is very important because is the only way to synchronised everybody's actions in one same flow.
+Either in kitchen or while I was working in a team project communication is the key, if there is not communication in kitchen is sure that the dishes will be in delay, and in coding I have realized that sometimes is possible to implement functionality for the app that they are not required or is also very easy to go out of track. Especially is very important to keep updated with your colleagues to be consinstantly synchronized with your team. 
+
+# Teamwork
+
+Teamwork for me is another element that I believe brings any company to the success, consider the fact even if you are the strongest person in your team you still can't do everything alone, but I have found it quite difficult to find a goal or motivation that can keep a team all together, and is also very important to help whoever is left behind and bring this person to the same level of the others.  
+For example in our final project in Makers 
 
 #### This Skill
 
@@ -75,8 +73,7 @@ University for 3 months to improve Chinese language skills.
 
 ## Hobbies
 
-- Baking bread, it is been a while that I am baking bread, and I found very affascinated, to compare coding is something that 
-  is quite difficult to debug, consider time and the differences with temperature, flour's protein, you need to wait more than   24 hours before you can see the result of the next bread, and then thinking about all the process and try to spot on where     were your mistakes, until nowadays I couldn't make the same bread for 2 times in a row.
+- Baking bread.
 
 - Workout, for me is very important to do some exercise because having a balanced psychophisycal it means to be healthy and     able to do ease the daily stress.
 
