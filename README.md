@@ -1,29 +1,24 @@
 ## Jia Tian Xia
 
-As my name is difficult to pronounce everybody calls me Leo, before Makers I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and UK.
-Working in a kitchen definitely I have always enjoying to know people from different countries and have the possibility to have a cultural and language exchange, but even if I was very passionate about cooking, after moving different restaurants in London I have realized the redundant tasks that I had to fullfil everyday and they started to be monotonous on my daily routine, so I decided to join Makers and challenge myself to become a software developer, with the curiosity to learn how the application and website are built.
+As my name is difficult to pronounce everybody calls me Leo, before Makers I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and the UK. 
+Working in a kitchen definitely I have always enjoying to know people from different countries and have the possibility to have a cultural and language exchange, but even if I was very passionate about cooking, after moving different restaurants in London I have realized the redundant tasks that I had to fulfill every day and they started to be monotonous on my daily routine, so I decided to join Makers and challenge myself to become a software developer, with the curiosity to learn how the application and website are built.
 
 ## Skills
 
 # Organisational
 
-Working in different restaurants during my career as chef I had the possibility to learn how to be organised and possibly using most efficiently the time, considering is a job with an high pressure is very important to calculate the time for each preparation and be ready for the service.
-Mostly in my daily routine before to arrive at workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
-Either in coding, I have found it very important to make a plan before to my day, so I could understand better which goals I had to achieve at the end of the day or at the end of the week.
+Working in different restaurants during my career as a chef I could learn how to be organized and possibly using most efficiently the time, considering is a job with high pressure is very important to calculate the time for each preparation and be ready for the service.
+Mostly in my daily routine before to arrive at the workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
+Either in coding, I have found it very important to make a plan before to my day, so I could understand better which goals I had to achieve at the end of the day or the end of the week.
 
 # Communication
 
-Either in kitchen or while I was working in a team project communication is the key, if there is not communication in kitchen is sure that the dishes will be in delay, and in coding I have realized that sometimes is possible to implement functionality for the app that they are not required or is also very easy to go out of track. Especially is very important to keep updated with your colleagues to be consinstantly synchronized with your team. 
+Either in kitchen or while I was working in a team project communication is the key, if there is not communication in kitchen is sure that the dishes will be in delay, and in coding I have realized that sometimes is possible to implement functionality for the app that they are not required or is also very easy to go out of track. It especially is very important to keep updated with your colleagues to be constantly synchronized with your team. 
 
 # Teamwork
 
-Teamwork for me is another element that I believe brings any company to the success, consider the fact even if you are the strongest person in your team you still can't do everything alone, but I have found it quite difficult to find a goal or motivation that can keep a team all together, and is also very important to help whoever is left behind and bring this person to the same level of the others.  
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+Teamwork for me is another element that I believe brings any company to success, consider the fact even if you are the strongest person in your team you still can't do everything alone. 
+In my final project with my team we had some issues with the front end and we mobbed for 3 hours to find a workaround to set our buttons because they were overlapping, so we collected all our knowledge that we gather for React Native to finally solve our problems, the feeling to part of a team and working altogether to achieve the same goal that we had in common during this last 3 hours sprint which was getting ready our application for the presentation for the end of the course because we were late, we ended up to manage to complete the application and finally celebrate our success it's something that I believe that any team needs to have the same goal which gathers altogether. 
 
 # Projects
 
@@ -32,15 +27,6 @@ Teamwork for me is another element that I believe brings any company to the succ
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Final project, my team and me decided to build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music in base at the weather. | 2 weeks | React Native, Android Studio | Jest |
 | [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project,  had to build with our own interpration of Facebook with an emphasis on focusing on learning as a group, and the coaches were simulating to be a client which they were giving us a new user story to build once they have checked that we have completed our previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
 | [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project, as we wanted a colleague to envy that we wanted to build the application in Python we called our app as CrouchingPythonbnb  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -64,11 +50,13 @@ Studied accountancy, IT, civil law.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Sushi Hiroba** (September 2018 to December 2018)    
+*Sous Chef*  
+- As Sous Chef at Sushi Hiroba my main challange was to help to reposition the restaurant and to a build a successful team.
+  Besides my day by day duty I have contributed to develop a new menu.
+  I have reorganised the workspace and improved internal processes by applying industry best practices.
 
-**Company Name** (start_date to end_date)   
+**4 Degree** (June-2017 to end_date)   
 *Your job title*  
 - Any experience relevent to software development
 
