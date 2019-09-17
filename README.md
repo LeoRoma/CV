@@ -75,8 +75,11 @@ University for 3 months to improve Chinese language skills.
 
 ## Languages
 
-  Italian          Chinese     English    Spanish    Japanese
-  First language   Fluent      Fluent     Fluent     Conversational
+Italian: First language
+Chinese: Fluent
+English: Fluent
+Spanish: Fluent
+Japanese: Conversational
  
 ## Hobbies
 
