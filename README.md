@@ -46,11 +46,11 @@ In our final group project, we found ourselves behind schedule as there were som
 Intensive Chinese language course in a medium-advanced class.
 
 #### Bachelor - La Sapienza University, Faculty of Oriental Studies, Oriental Languages and Cultures. Rome, Italy (2007-2010)
-Studied chinese language, history, arts, literature, philology, religion and philosophy. In 2010 achieved a
+Studied Chinese language, History, Arts, Literature, Philology, Religion and Philosophy. In 2010 achieved a
 scholarship to study abroad in Beijing for 3 months to improve Chinese language skills.
 
 #### High School Diploma - Leon Battista Alberty, Accountancy Field. Rome, Italy (2003-2007)
-Studied accountancy, IT, civil law.
+Studied accountancy, IT, Civil law.
 
 
 ## Experience
