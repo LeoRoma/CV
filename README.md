@@ -2,16 +2,17 @@
 
 As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef ([See link](http://dialogueagency.com/xia-jia-tian-from-kouzu-crowned-the-uks-top-sushi-chef/)) with a strong international background developed through education and work experience in Italy, China, and UK. 
 
-Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, after working at different restaurants in London, I realised that the tasks were repetitive. My daily routine started to become monotonous, so I decided to join [Makers Academy](https://makers.tech/) and challenge myself to become a software developer, with the curiosity to learn how applications and websites are built.
+Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, I wanted to look for something that was more challenging, as I did a little bit of coding when I was in High School, I decided to start a new adventure and challenge myself with coding.
 
+Before to join [Makers Academy](https://makers.tech/), with their recommendation I started to learn how to code with CodeWars, and slowly with the passing of time I became more curious about coding and wanted to learn how applications and websites are built 
 
 ## Skills
 
 #### Organisational
 
-Working in different restaurants during my career as a chef, I learned how to be organised and using my time efficiently. Being a chef comes with high pressure, and so it is very important to calculate the time for each food preparation and be ready for the service.
+#### Organisational
 
-I have taken these skills into my coding. I will plan my day so I can set out which goals I want to achieve by the end of the day.
+Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
 
 #### Communication
 
@@ -69,7 +70,7 @@ Studied accountancy, IT, Civil law.
   
 **Kouzu** (September 2014 to December 2015)   
 *Sushi Chef*
-- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible of the daily operations. My day to     day role was delivering tailor made experiences through Omakase (traditional Japanese customer- facing service).
+- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible of the daily operations. My day to     day role was delivering tailor made experiences through Omakase (traditional Japanese customer-facing service).
   During my time at Kouzu I successfully represented the brand and achieved international awards.
 
 ## Achievements
