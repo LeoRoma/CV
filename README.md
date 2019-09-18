@@ -1,6 +1,7 @@
 ## Jia Tian Xia ('Leo')
 
 As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef with a strong international background developed through education and work experience in Italy, China, and UK. 
+
 Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, after working at different restaurants in London, I realised that the tasks were repetitive. My daily routine started to become monotonous, so I decided to join [Makers Academy](https://makers.tech/) and challenge myself to become a software developer, with the curiosity to learn how applications and websites are built.
 
 ## Skills
@@ -8,7 +9,7 @@ Working in a kitchen, I have always enjoyed meeting people from different countr
 # Organisational
 
 Working in different restaurants during my career as a chef, I learned how to be organised and using my time efficiently. Being a chef comes with high pressure, and so it is very important to calculate the time for each food preparation and be ready for the service.
-Mostly in my daily routine before to arrive at the workplace I was planning in my mind all the preparations I had to do it, estimate the time one by one, so I could sort them in order by timing.
+
 I have taken these skills into my coding. I will plan my day so I can set out which goals I want to achieve by the end of the day.
 
 # Communication
@@ -88,6 +89,6 @@ University for 3 months to improve Chinese language skills.
 
 - Workout: It is very important to be healthy. Even if sometimes I slip into drinking very easily! 
 
-- Guitar: I always wanted to learn to play an instrument. This is quite challenging to do self-led.
+- Guitar: I always wanted to learn to play an instrument, even if I am not very good on that and is very difficult to learn by your own, I just keep trying to learn some new technique and songs, especially having fun.
 
 - Cooking: even if I want to change my career I still like cooking. I especially try to cook different recipes and different varieties of food.
