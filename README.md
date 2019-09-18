@@ -31,7 +31,7 @@ In our final group project, we found ourselves behind schedule as there were som
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Makers Academy Final project. My team build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music based on the weather. | 2 weeks | React Native, Android Studio | Jest |
 | [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project at Makers.  We built our own version of Facebook with an emphasis on focusing on learning as a group. The coaches were acting as the client which and they were giving us a new user story to build once they have checked that we have completed the previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
 | [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project at Makers. As we wanted our colleagues to be jealous that were building the application in Python, we called our app CrouchingPythonbnb, even though we didn't write a single line of Python.  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
-| [bank-tech-test](https://github.com/LeoRoma/bank-tech-test) | Week 10 of the Makers course. We had our first professional-quality tech-test.  | 2 days | Ruby | Rspec |
+| [bank-tech-test](https://github.com/LeoRoma/bank-tech-test) | Week 10 at Makers. We had our first professional-quality tech-test.  | 2 days | Ruby | Rspec |
 
 ## Education
 
