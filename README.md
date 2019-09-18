@@ -50,7 +50,7 @@ Studied Chinese language, History, Arts, Literature, Philology, Religion and Phi
 scholarship to study abroad in Beijing for 3 months to improve Chinese language skills.
 
 #### High School Diploma - Leon Battista Alberty, Accountancy Field. Rome, Italy (2003-2007)
-Studied accountancy, IT, Civil law.
+Studied Accountancy, IT, Civil law.
 
 
 ## Experience
