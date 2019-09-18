@@ -4,6 +4,7 @@ As my name is difficult to pronounce everybody calls me Leo. Before I trained to
 
 Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, after working at different restaurants in London, I realised that the tasks were repetitive. My daily routine started to become monotonous, so I decided to join [Makers Academy](https://makers.tech/) and challenge myself to become a software developer, with the curiosity to learn how applications and websites are built.
 
+
 ## Skills
 
 #### Organisational
