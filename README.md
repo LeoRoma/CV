@@ -10,8 +10,6 @@ Before to join [Makers Academy](https://makers.tech/), with their recommendation
 
 #### Organisational
 
-#### Organisational
-
 Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
 
 #### Communication
