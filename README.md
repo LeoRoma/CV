@@ -6,19 +6,19 @@ Working in a kitchen, I have always enjoyed meeting people from different countr
 
 ## Skills
 
-# Organisational
+#### Organisational
 
 Working in different restaurants during my career as a chef, I learned how to be organised and using my time efficiently. Being a chef comes with high pressure, and so it is very important to calculate the time for each food preparation and be ready for the service.
 
 I have taken these skills into my coding. I will plan my day so I can set out which goals I want to achieve by the end of the day.
 
-# Communication
+#### Communication
 
 Whether working in a kitchen or coding in a team project, I understand that communication is the key. If there is no communication in a kitchen, it is certain that the dishes will be delayed. 
 
 I have realised that the same applied to coding, in that if there is poor communication, some team members might make changes to the code which has an impact on the code the rest of the team is writing. It especially is very important to keep updated with your colleagues to be constantly synchronized with your team. 
 
-# Teamwork
+#### Teamwork
 
 Teamwork for me is another element that I believe brings any company success - even if you are the strongest person in your team you cannot do everything alone. 
 
