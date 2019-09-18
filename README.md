@@ -12,18 +12,6 @@ Before to join [Makers Academy](https://makers.tech/), with their recommendation
 
 Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
 
-#### Communication
-
-Whether working in a kitchen or coding in a team project, I understand that communication is the key. If there is no communication in a kitchen, it is certain that the dishes will be delayed. 
-
-I have realised that the same applied to coding, in that if there is poor communication, some team members might make changes to the code which has an impact on the code the rest of the team is writing. It especially is very important to keep updated with your colleagues to be constantly synchronized with your team. 
-
-#### Teamwork
-
-Teamwork for me is another element that I believe brings any company success - even if you are the strongest person in your team you cannot do everything alone. 
-
-In our final group project, we found ourselves behind schedule as there were some issues with the front end. At this stage, there was only three hours to go before our presentation. To resolve the issue we did mob programming in a final three-hour sprint, and by sharing our knowledge and focusing on a common goal, we were able to resolve the issue and celebrate our success. 
-
 ## Projects
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
