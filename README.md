@@ -73,7 +73,7 @@ Studied accountancy, IT, civil law.
 
 ## Achievements
 Winner of Global Sushi Challange UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
-represent UK in the Grand Final. (See link: http://dialogueagency.com/xia-jia-tian-from-kouzu-crowned-the-uks-top-sushi-chef/)
+represent UK in the Grand Final. ([See link](http://dialogueagency.com/xia-jia-tian-from-kouzu-crowned-the-uks-top-sushi-chef/))
 
 In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
 University for 3 months to improve Chinese language skills.
