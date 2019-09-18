@@ -24,7 +24,7 @@ Teamwork for me is another element that I believe brings any company success - e
 
 In our final group project, we found ourselves behind schedule as there were some issues with the front end. At this stage, there was only three hours to go before our presentation. To resolve the issue we did mob programming in a final three-hour sprint, and by sharing our knowledge and focusing on a common goal, we were able to resolve the issue and celebrate our success. 
 
-# Projects
+## Projects
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
