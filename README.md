@@ -60,7 +60,7 @@ Studied Accountancy, IT, Civil law.
 
 **Sushi Hiroba** (September 2018 to December 2018)    
 *Sous Chef*  
-- As Sous Chef at Sushi Hiroba my main challange was to help to reposition the restaurant and to a build a successful team.
+- As Sous Chef at Sushi Hiroba my main challenge was to help to reposition the restaurant and to a build a successful team.
   Besides my day by day duty I have contributed to develop a new menu.
   I have reorganised the workspace and improved internal processes by applying industry best practices.
 
@@ -75,7 +75,7 @@ Studied Accountancy, IT, Civil law.
   During my time at Kouzu I successfully represented the brand and achieved international awards.
 
 ## Achievements
-Winner of Global Sushi Challange UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
+Winner of Global Sushi Challenge UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
 represent UK in the Grand Final. ([See link](http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/))
 
 In 2010 won a scholarship from the University La Sapienza to study abroad at the Beijing Foreign Studies
