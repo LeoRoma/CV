@@ -16,7 +16,7 @@ In order to keep track of my learning process during the course, I planned daily
 
 #### Teamwork
 
-When I was Junior Sous Chef/Sous Chef, I had the opportunity to learn the importance of teamwork. With a purpose to have a well trained team, I was happy to encourage and teach my colleagues new skills, to support their improvement day by day, and deliver a good service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
+When I was Junior Sous Chef/Sous Chef, I had the opportunity to learn the importance of teamwork. With a purpose to have a well trained team, I was happy to encourage and teach my colleagues new skills, to support their improvement day by day, and deliver a good service. Translating this into my code, I follow an Agile methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
 
 #### Adaptability 
 
