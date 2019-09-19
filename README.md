@@ -10,11 +10,22 @@ Before to join [Makers Academy](https://makers.tech/), with their recommendation
 
 #### Organisational
 
-Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
+Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. 
+
+In order to keep track of my learning process during the course, I planned daily goals, took notes about what I was learning and wrote reflections about the goals.
 
 #### Teamwork
 
+When I was Junior Sous Chef/Sous Chef, I had the opportunity to learn the importance of teamwork. With a purpose to have a well trained team, I was happy to encourage and teach my colleagues new skills, to support their improvement day by day, and deliver a good service. Translating this into my code, I follow an AGILE methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
 
+#### Adaptability 
+
+A Chef’s life is not a simple life, working standing from morning until late night everyday. I had the opportunity to adapt in various different circumstances, including the volatile mood of the Head Chef, or adapting to additional orders
+being sent, due to customers changing their mind about a dish.
+
+Working with Japanese Chefs I had also learned to appreciate hard work, the dedication, the precision, the punctuality and the passion transmitted from them to their food.
+
+In the same way during the course, pairing everyday with a different person, I could learn from them different techniques and ways to approach solving problems.
 
 ## Projects
 
@@ -84,6 +95,6 @@ University for 3 months to improve Chinese language skills.
 
 - Workout: It is very important to be healthy. Even if sometimes I slip into drinking very easily! 
 
-- Guitar: As a self-learner, finally I can play a little bit! 
+- Guitar: As a self-learner, I can play a little bit, not well but I can play! 
 
 - Cooking: even if I want to change my career I still like cooking.
