@@ -97,4 +97,4 @@ University for 3 months to improve Chinese language skills.
 
 - Guitar: As a self-learner, I can play a little bit, not well but I can play! 
 
-- Cooking: even if I want to change my career I still like cooking.
+- Cooking: every kind of food Italian, Chinese, Japanese and whatever you fancy to eat.
