@@ -2,9 +2,9 @@
 
 As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef ([See link](http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/)) with a strong international background developed through education and work experience in Italy, China, and UK. 
 
-Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. However, even if I was very passionate about cooking, I wanted to look for something that was more challenging, as I did a little bit of coding when I was in High School, I decided to start a new adventure and challenge myself with coding.
+Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. Although, I am passionate about cooking, I wanted to look for something that was more challenging. During the High School I had the opportunity to do a little of coding, therefore I decided to start a new adventure and challenge myself with coding.
 
-Before to join [Makers Academy](https://makers.tech/), with their recommendation I started to do CodeWars' katas, and slowly with the passing of time, I became more curious about coding, and wanted to learn how applications and websites are built. 
+Before I joined [Makers Academy](https://makers.tech/), I started to do CodeWars’ katas, as time goes on, I became more curious about coding, to learn and understand how applications and websites are built.
 
 ## Skills
 
