@@ -4,7 +4,7 @@ As my name is difficult to pronounce everybody calls me Leo. Before I trained to
 
 Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. Although, I am passionate about cooking, I wanted to look for something that was more challenging. During the High School I had the opportunity to do a little bit of coding, therefore I decided to start a new adventure and challenge myself with coding.
 
-Before I joined [Makers Academy](https://makers.tech/), I started to do CodeWars’ katas, as time goes on, I became more curious about coding, to learn and understand how applications and websites are built.
+Before I joined [Makers Academy](https://makers.tech/), I started to do CodeWars’ katas, as time goes on, I became more curious about coding, and wanted to learn and understand how applications and websites are built.
 
 ## Skills
 
