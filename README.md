@@ -40,7 +40,7 @@ In the same way during the course, pairing everyday with a different person, I c
 
 #### Makers Academy (July-September 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -60,18 +60,18 @@ Studied Accountancy, IT, Civil law.
 
 **Sushi Hiroba** (September 2018 to December 2018)    
 *Sous Chef*  
-- As Sous Chef at Sushi Hiroba my main challenge was to help to reposition the restaurant and to a build a successful team.
+- As Sous Chef at Sushi Hiroba my main challenge was to help to reposition the restaurant and to build a successful team.
   Besides my day by day duty I have contributed to develop a new menu.
   I have reorganised the workspace and improved internal processes by applying industry best practices.
 
 **4 Degree** (June-2017 to June 2018)   
 *Junior Sous Chef*  
-- As Junior Soush Chef at 4 Degree I actively contributed to the launch of the restaurant by supporting senior staff in         developing the menu and training the junior staff.
-  Responsible of inventory and stock management, I oversighted processes to ensure consistent quality standard.
+- As Junior Soush Chef at 4 Degree I actively contributed to the launch of the restaurant by supporting senior staff in        developing the menu and training the junior staff.
+Responsible for inventory and stock management, I oversight processes to ensure a consistent quality standard.
   
 **Kouzu** (September 2014 to December 2015)   
 *Sushi Chef*
-- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible of the daily operations. My day to     day role was delivering tailor made experiences through Omakase (traditional Japanese customer-facing service).
+- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible for the daily operations. My day to day role was delivering tailor-made experiences through Omakase (traditional Japanese customer-facing service).
   During my time at Kouzu I successfully represented the brand and achieved international awards.
 
 ## Achievements
