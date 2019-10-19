@@ -2,38 +2,36 @@
 
 As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef ([See link](http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/)) with a strong international background developed through education and work experience in Italy, China, and UK. 
 
-Working in a kitchen, I have always enjoyed meeting people from different countries and have the opportunity to have a cultural and language exchange. Although, I am passionate about cooking, I wanted to look for something that was more challenging. During the High School I had the opportunity to do a little bit of coding, therefore I decided to start a new adventure and challenge myself with coding.
-
-Before I joined [Makers Academy](https://makers.tech/), I started to do CodeWars’ katas, as time goes on, I became more curious about coding, and wanted to learn and understand how applications and websites are built.
+Altough passionate about cooking, I am looking for a change in career, specifically I am attracted to full stack development.
+I find backend very interesting, because I like the logic involved in creating interconnected systems through Object Oriented Programming (OOP).
+On the other hand I find frontend a good way to express my creativity through visual design.
+As an aspiring junior developer, I would like to challenge myself and my end-to-end critical thinking in a fast-paced environment.
 
 ## Skills
 
-#### Organisational
+#### Process thinking
 
-Working in different restaurants as a chef, I was consistently working under high-pressure. Consequently, I needed to ensure I delegated adequate time to preparation of different food items, whilst ensuring prepared food was ready for service. 
+In my working experience, I like to create a structured method of working, to always keep track of my learning process. For this purpose, I found the Agile methodology particularly helpful to work efficiently. I plan daily goals, take notes and measure my perfomance against these milestones.
 
-In order to keep track of my learning process during the course, I planned daily goals, took notes about what I was learning and wrote reflections about the goals.
+Moreover, I find this mindset useful in a team environment to define clear roles and responsibilities, which is fundamental to delegate and assign tasks effectively.
 
-#### Teamwork
+#### Adaptability
 
-When I was Junior Sous Chef/Sous Chef, I had the opportunity to learn the importance of teamwork. With a purpose to have a well trained team, I was happy to encourage and teach my colleagues new skills, to support their improvement day by day, and deliver a good service. Translating this into my code, I follow an Agile methodology which allows me to be aware of which roles and responsibilities have been delegated within my team to allow more seamless product development.
+As a chef I worked in multicultural and fastpaced environments, developing good communication skills, and the flexibility to maintain a level-head under pressure.
 
-#### Adaptability 
+#### Attention to detail
 
-A Chef’s life is not a simple life, working standing from morning until late night everyday. I had the opportunity to adapt in various different circumstances, including the volatile mood of the Head Chef, or adapting to additional orders
-being sent, due to customers changing their mind about a dish.
+Working with Japanese Chefs I also learned to appreciate dedication, precision, and the relentless pursuit of mastering one's craft in any field of work.
 
-Working with Japanese Chefs I had also learned to appreciate hard work, the dedication, the precision, the punctuality and the passion transmitted from them to their food.
-
-In the same way during the course, pairing everyday with a different person, I could learn from them different techniques and ways to approach solving problems.
+This experience helped me develop a particular attention to detail and strong commitment to deliverables. 
 
 ## Projects
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Makers Academy Final project. My team build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music based on the weather. | 2 weeks | React Native, Android Studio | Jest |
-| [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project at Makers.  We built our own version of Facebook with an emphasis on focusing on learning as a group. The coaches were acting as the client which and they were giving us a new user story to build once they have checked that we have completed the previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
-| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project at Makers. As we wanted our colleagues to be jealous that were building the application in Python, we called our app CrouchingPythonbnb, even though we didn't write a single line of Python.  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
+| [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project at Makers.  We built our own version of Facebook with an emphasis on focusing on learning as a group. The coaches were acting as the client which and they we were giving us a new user story to build once they have checked that we have completed the previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [CrouchingPythonbnb](https://github.com/hemser1/Makersbnb) | First team project at Makers. We chose a provocative name to apply pressure on the other teams to suggest we were building the application in Python. However, we actually didn't write a single line in Python.  | 1 week | HTML/CSS, JavaScript, Ruby, Postgresql, Sinatra, Heroku | Rspec, Capybara  |
 | [bank-tech-test](https://github.com/LeoRoma/bank-tech-test) | Week 10 at Makers. We had our first professional-quality tech-test.  | 2 days | Ruby | Rspec |
 
 ## Education
@@ -91,10 +89,10 @@ University for 3 months to improve Chinese language skills.
  
 ## Hobbies
 
-- Baking bread: I found baking bread a very interesting hobby. It has a very complicate process, since I started I never succeded to have the same result 2 times in a row.
+- Baking bread: I enjoy the complicated process involved and the unpredictability of the results.
 
-- Workout: It is very important to be healthy. Even if sometimes I slip into drinking very easily! 
+- Workout: It is very important to be healthy. Even if sometimes I slip into drinking very easily.
 
-- Guitar: As a self-learner, I can play a little bit, not well but I can play! 
+- Guitar: As a self-learner, I can play a fair bit although I am looking to constantly improve.
 
-- Cooking: every kind of food Italian, Chinese, Japanese and whatever you fancy to eat.
+- Cooking: exploring different varieties of cuisines, from Italian and Chinese to Japanese specialties
