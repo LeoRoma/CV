@@ -1,11 +1,8 @@
 ## Jia Tian Xia ('Leo')
 
-As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef ([See link](http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/)) with a strong international background developed through education and work experience in Italy, China, and UK. 
+As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef (See link[http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/]) with a strong international background developed through education and work experience in Italy, China, and UK.
 
-Altough passionate about cooking, I am looking for a change in career, specifically I am attracted to full stack development.
-I find backend very interesting, because I like the logic involved in creating interconnected systems through Object Oriented Programming (OOP).
-On the other hand I find frontend a good way to express my creativity through visual design.
-As an aspiring junior developer, I would like to challenge myself and my end-to-end critical thinking in a fast-paced environment.
+Although passionate about cooking, I am looking for a change in career, specifically, I am attracted to full-stack development. I find backend very interesting because I like the logic involved in creating interconnected systems through Object-Oriented Programming (OOP). On the other hand, I find frontend a good way to express my creativity through visual design. As an aspiring junior developer, I would like to challenge myself and my end-to-end critical thinking in a fast-paced environment
 
 ## Skills
 
