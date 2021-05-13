@@ -24,7 +24,7 @@ This experience helped me develop a particular attention to detail and strong co
 
 ## Projects
 
-| Title | Description | Development Timeframe | Technologies Used |
+| Title | Github Link | Live Demo | Description | Development Timeframe | Technologies Used |
 |--|--|--|--|--|--|
 | Portfolio | [Github](https://github.com/LeoRoma/Leo-Portfolio-React) | [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on build a responsive website by using React and CSS for styling. To build this project I have been using by following the design on Figma. | 2 weeks | React, HTML, JSX, CSS |
 
