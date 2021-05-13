@@ -54,6 +54,7 @@ Studied Accountancy, IT, Civil law.
 ## Experience
 
 **Sparta Global** (Jun 2020 - Sept 2020)
+
 *C# Developer Trainee*
 
 - A 12-week intensive training program designed to supply key
@@ -67,6 +68,7 @@ Entity Framework and Microsoft Azure.
 
 
 **Restaurants: Sushi Hiroba, 4 Degree, Tokimeite, Kouzu** (Sept 2013 - Dec 2019)
+
 *Sous Chef*
 
 - Conducted training functions, ensuring that individual
