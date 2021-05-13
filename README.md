@@ -2,7 +2,7 @@
 
 As my name is difficult to pronounce everybody calls me Leo. Before I trained to be a software developer, I was an award-winning Sushi Chef ([See link](http://sushichallenge.global/uk-sushi-chef-xia-tia-jian-set-for-global-sushi-stardom/)) with a strong international background developed through education and work experience in Italy, China, and UK.
 
-Although passionate about cooking, I am looking for a change in career, specifically, I am attracted to full-stack development. I find backend very interesting because I like the logic involved in creating interconnected systems through Object-Oriented Programming (OOP). On the other hand, I find frontend a good way to express my creativity through visual design. As an aspiring junior developer, I would like to challenge myself and my end-to-end critical thinking in a fast-paced environment
+Although passionate about cooking, I am looking for a change in career, specifically, I am attracted to Frontend Development. Where I find a good way to express my creativity through UI/UX. As an aspiring junior developer, I would like to challenge myself and my end-to-end critical thinking in a fast-paced environment
 
 ## Skills
 
@@ -20,7 +20,7 @@ As a chef I worked in multicultural and fastpaced environments, developing good 
 
 Working with Japanese Chefs I also learned to appreciate dedication, precision, and the relentless pursuit of mastering one's craft in any field of work.
 
-This experience helped me develop a particular attention to detail and strong commitment to deliverables. 
+This experience helped me develop a particular attention to detail and strong commitment to deliverables, that I have found very useful for the Frontend Development. 
 
 ## Projects
 
@@ -28,8 +28,8 @@ This experience helped me develop a particular attention to detail and strong co
 |--|--|--|--|--|--|
 | Portfolio | [Github](https://github.com/LeoRoma/Leo-Portfolio-React) | [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on build a responsive website by using React and CSS for styling. To build this project I have been using by following the design on Figma. | 2 weeks | React, HTML, JSX, CSS |
 | Chosen For You | [Github](https://github.com/LeoRoma/ChosenForYou) | [Demo](https://chosen-for-you.netlify.app/) | I had to build a responsive webpage with a carousel and different filters, by using only JS, HTML and CSS without any external libraries or framework such as React or Bootstrap, but I could use a mix of JQuery and Vanilla JS. | 5 days | HTML, CSS, Vanilla JS, JQuery |
-| Leo Art Gallery | [Github](https://github.com/LeoRoma/ArtGallery) | [Demo](https://leoartgallery.netlify.app/) | I challenged myself in recreating a complex front-end experience using HTML, CSS, and Javascript. | 5 days | HTML, CSS, Vanilla JS |
-
+| Leo Art Gallery | [Github](https://github.com/LeoRoma/ArtGallery) | [Demo](https://leoartgallery.netlify.app/) | I challenged myself in recreating a complex front-end experience using HTML, CSS, and Javascript. | 3 weeks | HTML, CSS, Vanilla JS |
+| London UFO | [Github](https://github.com/LeoRoma/UFO-React) | [Demo](https://londonufo.netlify.app/) | An animation of a UFO landing from the sky to the ground | 1 week | React, HTML, JSX |
 
 ## Education
 
@@ -53,21 +53,31 @@ Studied Accountancy, IT, Civil law.
 
 ## Experience
 
-**Sushi Hiroba** (September 2018 to December 2018)    
-*Sous Chef*  
-- As Sous Chef at Sushi Hiroba my main challenge was to help to reposition the restaurant and to build a successful team.
-  Besides my day by day duty I have contributed to develop a new menu.
-  I have reorganised the workspace and improved internal processes by applying industry best practices.
+**Sparta Global** (Jun 2020 - Sept 2020)
+*C# Developer Trainee*
 
-**4 Degree** (June-2017 to June 2018)   
-*Junior Sous Chef*  
-- As Junior Soush Chef at 4 Degree I actively contributed to the launch of the restaurant by supporting senior staff in        developing the menu and training the junior staff.
-Responsible for inventory and stock management, I oversight processes to ensure a consistent quality standard.
-  
-**Kouzu** (September 2014 to December 2015)   
-*Sushi Chef*
-- After starting as Junior Sushi Chef I was promoted to Sushi chef, becoming responsible for the daily operations. My day to day role was delivering tailor-made experiences through Omakase (traditional Japanese customer-facing service).
-  During my time at Kouzu I successfully represented the brand and achieved international awards.
+● A 12-week intensive training program designed to supply key
+skills in C# Development and continuous integration of Agile.
+● C# programming language while ensuring a strong
+understanding of OOP programming, SOLID principles, through to
+building robust testable C# code with TDD and NUnit.
+● Being able to work on team projects using ASP .NET to create
+full-stack applications, interacting with SQL databases using the
+Entity Framework and Microsoft Azure.
+
+
+**Restaurants: Sushi Hiroba, 4 Degree, Tokimeite, Kouzu** (Sept 2013 - Dec 2019)
+*Sous Chef*
+
+● Conducted training functions, ensuring that individual
+  performance met the highest possible culinary standards.
+● Supervised and managed employees. Organised all day-to-day
+  Operations. Efficiently capable to perform duties in employees absence.
+● Worked collaboratively within the team and established open
+  communication to ensure smooth operations.
+● Delivered tailor-made experiences through Omakase
+  (traditional Japanese customer-facing service).
+
 
 ## Achievements
 Winner of Global Sushi Challenge UK 2015 representing Kouzu Restaurant, after went to Tokyo, Japan to
