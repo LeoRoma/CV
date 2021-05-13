@@ -44,7 +44,7 @@ This experience helped me develop a particular attention to detail and strong co
 #### Certificate - Beijing Foreign Studies University. Beijing, China (2011-2012)
 Intensive Chinese language course in a medium-advanced class.
 
-#### Bachelor - La Sapienza University, Faculty of Oriental Studies, Oriental Languages and Cultures. Rome, Italy (2007-2010)
+#### Bachelor - Sapienza University of Rome, Asian Studies. Rome, Italy (2007-2010)
 Studied Chinese language, History, Arts, Literature, Philology, Religion and Philosophy. In 2010 achieved a
 scholarship to study abroad in Beijing for 3 months to improve Chinese language skills.
 
