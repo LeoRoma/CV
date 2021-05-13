@@ -25,7 +25,7 @@ This experience helped me develop a particular attention to detail and strong co
 ## Projects
 
 | Title | Description | Development Timeframe | Technologies Used |
-|--|--|--|--|--|
+|--|--|--|--|
 | Portfolio [Github](https://github.com/LeoRoma/Leo-Portfolio-React) [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on build a responsive website by using React and CSS for styling. To build this project I have been using Figma as a design tool. | 2 weeks | React, HTML, JSX, CSS |
 
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Makers Academy Final project. My team build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music based on the weather. | 2 weeks | React Native, Android Studio | Jest |
