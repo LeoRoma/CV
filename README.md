@@ -25,8 +25,11 @@ This experience helped me develop a particular attention to detail and strong co
 ## Projects
 
 | Title | Description | Development Timeframe | Technologies Used |
-|--|--|--|--|
-| Portfolio [Github](https://github.com/LeoRoma/Leo-Portfolio-React) [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on build a responsive website by using React and CSS for styling. To build this project I have been using Figma as a design tool. | 2 weeks | React, HTML, JSX, CSS |
+|--|--|--|--|--|--|
+| Portfolio | [Github](https://github.com/LeoRoma/Leo-Portfolio-React) | [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on build a responsive website by using React and CSS for styling. To build this project I have been using by following the design on Figma. | 2 weeks | React, HTML, JSX, CSS |
+
+| Portfolio | [Github](https://github.com/LeoRoma/ChosenForYou) | [Demo](https://chosen-for-you.netlify.app/) |  I had to do a tech-test for a company, to build a web page by using only JS, HTML and CSS without any external libraries or framework such as React or Bootstrap, but I could use a mix of JQuery and Vanilla JS.
+I had to build a responsive webpage with a carousel and different filters. | 5 days | HTML, CSS, Vanilla JS, JQuery |
 
 | [Strawberry Alarm Clock](https://github.com/ckettell/strawberry-alarm-clock) | Makers Academy Final project. My team build a smart alarm clock for Android App which calculates the distance, traffic and also sets different music based on the weather. | 2 weeks | React Native, Android Studio | Jest |
 | [BookFace (AceBook)](https://github.com/hjdr/acebook-rails-template) | Second team project at Makers.  We built our own version of Facebook with an emphasis on focusing on learning as a group. The coaches were acting as the client which and they were giving us a new user story to build once we have completed the previous one.  | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
