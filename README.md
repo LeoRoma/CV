@@ -35,10 +35,11 @@ This experience helped me develop a particular attention to detail and strong co
 
 #### Makers Academy (July-September 2019)
 
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile, XP, Pair Programming
+- Full-stack development
+- Frontend: HTML, CSS, Javascript, JQuery, Angular, React
+- Backend: Ruby, Rails, Sinatra
+- Testing frameworks: RSpec, Jasmine, Capybara
 
 #### Certificate - Beijing Foreign Studies University. Beijing, China (2011-2012)
 Intensive Chinese language course in a medium-advanced class.
