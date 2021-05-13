@@ -56,12 +56,12 @@ Studied Accountancy, IT, Civil law.
 **Sparta Global** (Jun 2020 - Sept 2020)
 *C# Developer Trainee*
 
-● A 12-week intensive training program designed to supply key
+- A 12-week intensive training program designed to supply key
 skills in C# Development and continuous integration of Agile.
-● C# programming language while ensuring a strong
+- C# programming language while ensuring a strong
 understanding of OOP programming, SOLID principles, through to
 building robust testable C# code with TDD and NUnit.
-● Being able to work on team projects using ASP .NET to create
+- Being able to work on team projects using ASP .NET to create
 full-stack applications, interacting with SQL databases using the
 Entity Framework and Microsoft Azure.
 
@@ -69,13 +69,13 @@ Entity Framework and Microsoft Azure.
 **Restaurants: Sushi Hiroba, 4 Degree, Tokimeite, Kouzu** (Sept 2013 - Dec 2019)
 *Sous Chef*
 
-● Conducted training functions, ensuring that individual
+- Conducted training functions, ensuring that individual
   performance met the highest possible culinary standards.
-● Supervised and managed employees. Organised all day-to-day
+- Supervised and managed employees. Organised all day-to-day
   Operations. Efficiently capable to perform duties in employees absence.
-● Worked collaboratively within the team and established open
+- Worked collaboratively within the team and established open
   communication to ensure smooth operations.
-● Delivered tailor-made experiences through Omakase
+- Delivered tailor-made experiences through Omakase
   (traditional Japanese customer-facing service).
 
 
