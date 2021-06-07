@@ -29,7 +29,7 @@ This experience helped me develop a particular attention to detail and strong co
 | Portfolio | [Github](https://github.com/LeoRoma/Leo-Portfolio-React) | [Demo](https://leo-portfolio-react.netlify.app/) | This is my first frontend project focusing on building a responsive website by using React and CSS for styling. To build this project I have been following the design on Figma. | 2 weeks | React, HTML, JSX, CSS |
 | Chosen For You | [Github](https://github.com/LeoRoma/ChosenForYou) | [Demo](https://chosen-for-you.netlify.app/) | I had to build a responsive webpage with a carousel and different filters, by using only JS, HTML and CSS without any external libraries or framework such as React or Bootstrap, but I could use a mix of JQuery and Vanilla JS. | 5 days | HTML, CSS, Vanilla JS, JQuery |
 | Leo Art Gallery | [Github](https://github.com/LeoRoma/ArtGallery) | [Demo](https://leoartgallery.netlify.app/) | I challenged myself in recreating a complex front-end experience using HTML, CSS, and Javascript. | 3 weeks | HTML, CSS, Vanilla JS |
-| Recipe Sharer | [Backend](https://github.com/LeoRoma/RecipesSharerAPI), [Frontend](https://github.com/LeoRoma/recipe-sharer-view) | | A fullstack project with CRUD functionality, I have built as backend an API with C#, ASP.Net with MsSql as database. The UI is built with React| 4 weeks | React, HTML, JSX, C#, ASP.Net, MsSql |
+| Recipe Sharer | [Backend](https://github.com/LeoRoma/RecipesSharerAPI), [Frontend](https://github.com/LeoRoma/recipe-sharer-view) | | A fullstack project with CRUD functionality, I have built as backend an API with C#, ASP.Net and MsSql as database. The UI is built with React| 4 weeks | React, HTML, JSX, C#, ASP.Net, MsSql |
 
 ## Education
 
